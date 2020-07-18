@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-18T08:03:17.672Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="_KJKB0d8FvWTWLj1m0sX" version="12.9.0" type="github">
+<mxfile modified="2020-07-18T08:04:14.292Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="C27Ml9yU9XIxSTE8sUGy" version="12.9.0" type="github">
   <diagram id="bazxHvl_UKXMVMI2n2-C" name="Page-1">
     <mxGraphModel dx="861" dy="870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -8,16 +8,16 @@
           <mxGeometry x="516" y="118" width="308" height="475" as="geometry" />
         </mxCell>
         <mxCell id="zHzab9P2DYDksBdTa2nC-11" value="&amp;nbsp; &amp;nbsp; Private Subnet" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="641" y="363" width="160" height="208" as="geometry" />
+          <mxGeometry x="641" y="363" width="169" height="208" as="geometry" />
         </mxCell>
         <mxCell id="zHzab9P2DYDksBdTa2nC-8" value="Public Subnet" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="542" y="153" width="160" height="170" as="geometry" />
+          <mxGeometry x="639" y="157.5" width="172" height="170" as="geometry" />
         </mxCell>
         <mxCell id="AjvQf6BMv66kx0xezKMl-2" value="OnPREM" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="23" y="118" width="318" height="474" as="geometry" />
         </mxCell>
         <mxCell id="zHzab9P2DYDksBdTa2nC-9" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="561" y="183" width="131" height="130" as="geometry" />
+          <mxGeometry x="658" y="187.5" width="131" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zHzab9P2DYDksBdTa2nC-12" value="" style="group" parent="zHzab9P2DYDksBdTa2nC-9" vertex="1" connectable="0">
           <mxGeometry x="1" width="130" height="130" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="135" y="121" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="thpAZCQ8_dKzy4YzaB0K-9" value="10.200.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="624" y="122.5" width="40" height="17" as="geometry" />
+          <mxGeometry x="626" y="122.5" width="40" height="17" as="geometry" />
         </mxCell>
         <mxCell id="thpAZCQ8_dKzy4YzaB0K-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
